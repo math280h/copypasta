@@ -1,0 +1,8 @@
+## Interface: 110105, 110007, 110100
+## Title: CopyPasta
+## Notes: A collection of Copy Pasta
+## Author: Thias
+## Version: 1.0
+
+Lines.lua
+CopyPasta.lua

@@ -78,6 +78,62 @@ CopyPastaLines = {
     {
       title = "Blood Elf Mirror",
       text = "blood elf mirror broke beauty too strong 美貌太强 arcane essence leaking 奥术精华外泄 3 minute selfie cooldown 三分钟自拍冷却"
+    },
+    {
+      title = "Grobbulus Urgency",
+      text = "Grobbulus 小球 Disease cloud 疾病云 move with urgent haste 急忙搬家 kill the bloopers 杀死暴徒"
+    },
+    {
+      title = "Sun Thief Patrol",
+      text = "increase patrols in the grassland to detain warchief's sun thieves - 增加在草原的巡逻，以拘留酋长的晒太阳贼"
+    },
+    {
+      title = "Evil Knights Stand",
+      text = "邪恶的骑士 Evil horseriders 一起站 Stand together for falling sky 带走武器 Steal weapon 避免黑洞 Avoid pancake of darkness 圣光波 Change position often"
+    },
+    {
+      title = "Strong Bear",
+      text = "Strong bear 強熊 swipe paws 刷爪 engage robot gift 搞机器人礼物 to increase velocity 增加速度 and hold attention 引起注意"
+    },
+    {
+      title = "Kel'Thuzad Money Toss",
+      text = "kel'thuzad boss fight 克尔苏加德 using paladin money-throw strategy 使用圣骑士撒币大法, mobs wondering around 小怪到处鲁乱跑 like go shopping on the street 就像逛街一样"
+    },
+    {
+      title = "Wise Men Failure",
+      text = "wise men failure 基爾紮紮德 swordmen killed by ice wizzard 冰精灵 scandinavian rage 危險地上的圓圈 require new blessings 朋友是"
+    },
+    {
+      title = "Ice Man War",
+      text = "ICE MAN 冰人 red circle bad 红色圆圈坏 friend fight friend 朋友打架 big bug come 大虫来了 Board the bone fort in the sky. Kill the Lord to bring back his box -- 登上空中的骨堡。杀死耶和华把箱子带回来"
+    },
+    {
+      title = "Loatheb Green Hug",
+      text = "loatheb big green man 大绿人 protect darkness 保护黑暗 hug orange ball 拥抱橙色球 raise hand to fill green bar 举起手来填补绿色栏"
+    },
+    {
+      title = "Sapphiron Shower",
+      text = "sapphiron 冷蜥蜴 mobile refrigerated shower :pinched_fingers: 移动式冷冻淋浴 large damage location 大寒冷的地方 fly into great sky 龙去空中 use liquid water elemental 霜药水 turn man into frozen dinosaur 恐龙冰块 hide behind statue 隐藏冰冻的人"
+    },
+    {
+      title = "Heigan Disco",
+      text = "heigan dirty man 黑衣脏人 disease spread far 疾病传播得很远 make the fast dance 跳快舞 become friend with small worm 和小虫子成为朋友 do the disco party 参加迪斯科舞会"
+    },
+    {
+      title = "Sprocket Man",
+      text = "attack the sprocket man 攻击链轮人 beware of the fireworks 小心烟花 drills cause painful occurrence 训练导致痛苦的发生 run on treadmill to lose weight 跑步机减肥 dance on the minefield 雷区上的舞会 do not mix the colors 不要混合颜色 strong men must go to the fire party 强人必须去参加火舞会"
+    },
+    {
+      title = "Trash Man Protocol",
+      text = "trash man 基爾紮紮德 FIRE CIRCLE 冰精灵 ABOMBLIMBA 危險地上的圓圈 BALL MAN ball 朋友是敵人 bigbomb go boom 怪物不死族出現3 chicken down 智者應用鎖鏈 WE ROLL"
+    },
+    {
+      title = "GINGIEMP Malding",
+      text = "GINGIEMP 作弊手段 DESTORY ALL INTERNET 团队呼应MDI战略 glasses beard man malding 北美基础设施 worse than 新疆 province infrastructure"
+    },
+    {
+      title = "Patchwerk Pain River",
+      text = "patchwerk fat american 胖胖美国人 angered hits on armored men 对装甲兵的怒吼 intentional pain river keeps others safe 故意痛苦的河流使他人安全 medics focus those who eat fists 医务人员将重点放在那些吃拳头的人身上"
     }
   }
   

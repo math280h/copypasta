@@ -40,9 +40,18 @@ local lines = CopyPastaLines or {
   end
   
   -- Right-side preview panel
-  local previewBox = CreateFrame("Frame", nil, frame, "BasicFrameTemplateWithInset")
-  previewBox:SetSize(350, 200)
+  local previewBox = CreateFrame("Frame", nil, frame, BackdropTemplateMixin and "BackdropTemplate")
+  previewBox:SetSize(350, 250)
   previewBox:SetPoint("TOPRIGHT", -15, -35)
+  previewBox:SetBackdrop({
+    bgFile = "Interface\\DialogFrame\\UI-DialogBox-Background",
+    edgeFile = "Interface\\DialogFrame\\UI-DialogBox-Border",
+    tile = true,
+    tileSize = 32,
+    edgeSize = 32,
+    insets = { left = 11, right = 12, top = 12, bottom = 11 }
+  })
+  previewBox:SetBackdropColor(0, 0, 0, 1)
   
   previewText = previewBox:CreateFontString(nil, "OVERLAY", "GameFontHighlightSmall")
   previewText:SetPoint("TOPLEFT", 10, -10)
@@ -60,6 +69,16 @@ local lines = CopyPastaLines or {
     { label = "Guild", chatType = "GUILD" },
   }
   
+  local function SendChatMessageSplit(text, chatType)
+    local maxLength = 255
+    local startPos = 1
+    while startPos <= #text do
+      local part = text:sub(startPos, startPos + maxLength - 1)
+      SendChatMessage(part, chatType)
+      startPos = startPos + maxLength
+    end
+  end
+
   for i, info in ipairs(sendTypes) do
     local btn = CreateFrame("Button", nil, frame, "UIPanelButtonTemplate")
     btn:SetSize(80, 24)
@@ -70,7 +89,7 @@ local lines = CopyPastaLines or {
   
     btn:SetScript("OnClick", function()
       if selectedLine then
-        SendChatMessage(selectedLine, info.chatType)
+        SendChatMessageSplit(selectedLine, info.chatType)
       end
     end)
   end

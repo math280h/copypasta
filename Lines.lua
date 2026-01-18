@@ -134,6 +134,54 @@ CopyPastaLines = {
     {
       title = "Patchwerk Pain River",
       text = "patchwerk fat american 胖胖美国人 angered hits on armored men 对装甲兵的怒吼 intentional pain river keeps others safe 故意痛苦的河流使他人安全 medics focus those who eat fists 医务人员将重点放在那些吃拳头的人身上"
+    },
+    {
+      title = "Spider Queen Angry",
+      text = "queen ansurek 蜘蛛女王 many legs many problems 腿多问题多 web everywhere sticky situation 蜘蛛网到处都是 feed the pet ulgrax 喂宠物 become silk cocoon 变成丝茧 void mommy disappointed 虚空妈妈很失望"
+    },
+    {
+      title = "Hungry Bug Ulgrax",
+      text = "ulgrax the devourer 吞噬者 big bug hungry always 大虫子一直饿 root you to floor 把你钉在地上 throw poison soup 扔毒汤 feed him small friends 喂他小朋友 or he eat you instead 否则他吃你"
+    },
+    {
+      title = "Blood Horror Spin",
+      text = "bloodbound horror 血缚恐魔 what a long boring name 名字又长又无聊 spin and stuff i guess 旋转什么的吧 blood go everywhere 血到处都是 gruesome feast on floor 地上的盛宴 do not stand in red 不要站在红色里"
+    },
+    {
+      title = "Bug Captain Sikran",
+      text = "sikran captain of bugs 虫子队长 phase blade go swoosh 相位刀嗖嗖 decimate the raid 毁灭团队 expose weakness strategy 暴露弱点战术 cosmic energy bad 宇宙能量不好 stand in safe zone 站在安全区"
+    },
+    {
+      title = "Void Lady Xalatath",
+      text = "xalatath harbinger 先驱者 void whispers in your ear 虚空在耳边低语 feet memes everywhere 脚的梗到处都是 corrupts spider empire 腐化蜘蛛帝国 merely a setback soon 只是暂时挫折 darkness approaches 黑暗降临"
+    },
+    {
+      title = "Ethereal Crab Halondrus",
+      text = "halondrus big crab 大螃蟹 350 pulls to kill 拉了350次才杀死 ephemeral motes doom us all 虚幻微粒毁灭我们 relay race with bombs 炸弹接力赛 crustacean frustration 甲壳类的挫败 time for crab 螃蟹时间"
+    },
+    {
+      title = "Nexus King Betrayal",
+      text = "nexus king salhadaar 连结王 ethereal backstabber 虚灵叛徒 wants to wake big void man 想唤醒虚空巨人 bandage man schemes 绷带人的阴谋 long live the king he says 他说国王万岁 insolence punished 惩罚傲慢"
+    },
+    {
+      title = "Dimensius Awakens",
+      text = "dimensius all devouring 全吞噬者 biggest boss in history 史上最大boss multi platform nightmare 多平台噩梦 void lord hungry 虚空领主饿了 reality is snack 现实是零食 dark heart beats 黑暗之心跳动"
+    },
+    {
+      title = "Manaforge Explode",
+      text = "manaforge omega 法力熔炉 ethereal facility go boom 虚灵设施爆炸 K'aresh broken world 破碎世界 arcane power overflow 奥术能量溢出 manaforge vandals reputation 破坏者声望 reshii wraps required 需要缠绕"
+    },
+    {
+      title = "Tindral Tree Flight",
+      text = "tindral sageswift 贤者迅捷 druid but make it fire 德鲁伊但是着火了 fly through burning rings 飞过燃烧的圆环 dream becomes nightmare 梦变成噩梦 fyralath drops maybe 也许掉火镰 supernova scatter 超新星散开"
+    },
+    {
+      title = "Fyrakk Angry Tree",
+      text = "fyrakk the blazing 炽焰者 set world tree on fire 点燃世界之树 incarnate of shadow flame 暗影火焰化身 amirdrassil burns 安睡希尔燃烧 spirits very upset 灵魂很生气 big axe bigger ego 大斧子更大的自尊"
+    },
+    {
+      title = "Smolderon Floor Boss",
+      text = "smolderon firelord 火焰领主 ragnaros nephew energy 拉格纳罗斯侄子能量 lava wave dance party 岩浆波舞会 brand spreads like gossip 烙印像八卦一样传播 too soon you come 你来得太早了 floor is actually lava 地板真的是岩浆"
     }
   }
   
